@@ -1,2 +1,3 @@
 # Supervision
- Regulations for banks, capital adequacy and liquidity
+ Risk management: CCAR/DFAST capital adequacy and liquidity, credit risk, interest rate risk, liquidity risk
+Operational risk LDA model
